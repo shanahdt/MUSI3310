@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Theory 1's documentation!
+Welcome to Music Theory 1!
 ====================================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
-    syllabus
+   syllabus
 
 
 Indices and tables
