@@ -10,7 +10,7 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-
+   syllabus
 
 
 Indices and tables
