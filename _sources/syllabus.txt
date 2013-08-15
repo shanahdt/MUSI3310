@@ -2,14 +2,14 @@
 Syllabus
 ========
 -----------------------------------------------------
-Studies in Nineteenth-Century Music (MUSI3030)
+Music Theory 1 (MUSI3331)
 -----------------------------------------------------
 
 :Instructor: Dr. Daniel Shanahan
 :Office: Room 129 (basement), Kerchof Hall (Math Building; on C parking lot across from Clark Hall)
 :E-mail: dts9h@virginia.edu
 :Office hours: by appointment
-:Course: MUSI3030
+:Course: MUSI3331
 :Credit: 3.0 credits
 :Term: Fall 2013
 :Time: TR / 12:30-1:45pm
