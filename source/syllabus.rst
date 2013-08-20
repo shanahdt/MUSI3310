@@ -1,9 +1,9 @@
 ========
 Syllabus
 ========
------------------------------------------------------
+----------------------------
 Music Theory 1 (MUSI3331)
------------------------------------------------------
+----------------------------
 
 :Instructor: Dr. Daniel Shanahan
 :Office: Room 129 (basement), Kerchof Hall (Math Building; on C parking lot across from Clark Hall)
