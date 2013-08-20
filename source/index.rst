@@ -9,7 +9,7 @@ Welcome to Music Theory 1!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    syllabus
 
