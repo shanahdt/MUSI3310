@@ -62,9 +62,9 @@ Assigments and tests will receive numerical grades (100 = perfect).
 
 The breakdown of grades for this class is as follows:
 
--Assignments (40%)
--Quizzes (30%)
--Final Exam (30%)
+- Assignments (40%)
+- Quizzes (30%)
+- Final Exam (30%)
 
 Late Assignments
 ------------------
