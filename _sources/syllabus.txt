@@ -222,7 +222,7 @@ Lecture and Reading Schedule
 
 
 +---------------+---------------------------------------------------+
-|Unit IV: Harmony in Minor\n 		                            |
+|Unit IV: Harmony in Minor; 		                            |
 |Introduction to Four-Part Choral Texture                           |
 +===============+===================================================+
 |14.M	        |	Harmony in Minor                            |
