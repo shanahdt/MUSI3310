@@ -8,7 +8,7 @@ Music Theory 1 (MUSI3331)
 :Instructor: Dr. Daniel Shanahan
 :Office: Room 129 (basement), Kerchof Hall (Math Building; on C parking lot across from Clark Hall)
 :E-mail: dts9h@virginia.edu
-:Office hours: TBD and By Appointment
+:Office hours: MW 2-3pm; R 2:30-4:30 and By Appointment
 :Course: MUSI3331
 :Credit: 3.0 credits
 :Term: Fall 2013
