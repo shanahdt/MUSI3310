@@ -131,8 +131,7 @@ Lecture and Reading Schedule
 |1.F		|	Intervals                                   |    
 |		|                    			            |
 +---------------+---------------------------------------------------+
-|2.M		|	Major and Minor Scales                      |
-|               |       Circle of Fifths	                    |
+|2.M		|	Major and Minor Scales; Circle of Fifths    |
 |               |                                                   |
 |2.W		| 	More about scales	                    |   
 |		|					            |
