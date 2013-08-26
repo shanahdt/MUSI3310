@@ -26,6 +26,9 @@ In this course, we will begin to examine the technical aspects of music. We will
 employed in 18th- and 19th- century European art music, 
 as well as contemporary popular music, jazz, and African drumming.
 
+Enrollment deadlines: The last day in the College to add a course is Tuesday,
+September 10th; the last day to drop a course is Wednesday, September 11th; 
+the last day to withdraw from a course is Tuesday, October 22nd.
 
 Resources
 =========
@@ -130,6 +133,7 @@ Lecture and Reading Schedule
 +---------------+---------------------------------------------------+
 |2.M		|	Major and Minor Scales                      |
 |               |       Circle of Fifths	                    |
+|               |                                                   |
 |2.W		| 	More about scales	                    |   
 |		|					            |
 |2.F		|	More about scales	        	    |
