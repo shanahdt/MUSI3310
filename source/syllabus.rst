@@ -281,6 +281,7 @@ Unit I: Pitch Relations and Harmony
 |15.F		|	No Class				    |
 |(12/6)         |                                                   |
 +---------------+---------------------------------------------------+
+
 **Final Exam: Wednesday, December 11, 2013 9:00-12:00**
 
 
