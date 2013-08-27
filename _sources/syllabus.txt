@@ -123,55 +123,72 @@ Lecture and Reading Schedule
 |Week.Day	|	Topic         			            |
 +===============+===================================================+
 |1.W		|	Introduction, Diagnostic Test		    |
+|(8/28)         |                                                   |
 +---------------+---------------------------------------------------+
 
 +---------------+---------------------------------------------------+
 |Unit 1: Pitch Relations and Harmony	                            |
 +===============+===================================================+
 |1.F		|	Intervals                                   |    
-|		|                    			            |
+|(8/30)		|                    			            |
 +---------------+---------------------------------------------------+
 |2.M		|	Major and Minor Scales; Circle of Fifths    |
+|(9/2)          |                                                   |
 |               |                                                   |
 |2.W		| 	More about scales	                    |   
+|(9/4)          |                                                   |
 |		|					            |
 |2.F		|	More about scales	        	    |
+|(9/6)          |                                                   |
 +---------------+---------------------------------------------------+
 |		|					            |
 |3.M		|	Examples and Analysis	        	    |
-|		|						    |
+|(9/9)		|						    |
+|               |                                                   |
 |3.W		|	Triads	                                    |
+|(9/11)         |                                                   |
 |		|			        	            |
 |3.F		|	Consonance and Dissonance 	            |
+|(9/13)         |                                                   |
 +---------------+---------------------------------------------------+
 |4.M		|	Figured Bass Numbers and                    |
-|               |       Roman Numeral Notation	                    |
+|(9/16)         |       Roman Numeral Notation	                    |
 |		|						    |
 |4.W		|	Seventh Chords:                             |
+|(9/18)         |                                                   |
 |               |       Types, Inversions, Roman Numerals           |
 |		|					            |	
 |4.F		|	Quiz 1 	                                    |
+|(9/20)         |                                                   |        
 +---------------+---------------------------------------------------+
 |5.M		|	Lead Sheet Notation			    |
+|(9/23)         |                                                   |
 |		|       					    |
 |5.W		|	Basic Rhythmic Concepts	                    |
-|		|	         			            |
+|(9/25)		|	         			            |
+|               |                                                   |
 |5.F		|	Concepts and Dissonance in                  |
-|               |       Sixteenth-Century Music                     |
+|(9/27)         |       Sixteenth-Century Music                     |
 |		|	         			            |
 +---------------+---------------------------------------------------+
 |6.M		|	Harmony and Melody/non-harmonic notes	    |
-|		|						    |
+|(9/30)		|						    |
+|               |                                                   |
 |6.W		|	Non-Harmonic Notes (Continued)		    |
+|(10/2)         |                                                   |
 |               |                                                   |    
 |6.F		|	Examples and Analysis Exercise	            |
-|		|						    |
+|(10/4)		|						    |
+|               |                                                   |
 +---------------+---------------------------------------------------+
 |7.M		|	Cadences                                    |
-|		|       					    |
+|(10/7)		|       					    |
+|               |                                                   |    
 |7.W		|	Harmonic Structure and Function             |
+|(10/9)         |                                                   |        
 |		|						    |
 |7.F	        |	Quiz 2		                            |
+|(10|11)
 +---------------+---------------------------------------------------+
 
 
@@ -180,16 +197,22 @@ Lecture and Reading Schedule
 |Unit II: Rhythm                			            |	
 +===============+===================================================+
 |8.M	        |	Reading Day	                            |
+|(10/14)        |                                                   |
 |		|						    |
 |8.W	        |	Additive Meters		                    |
-|		|						    |
+|(10/16)	|						    |
+|               |                                                   |
 |8.F	        |	Hemiola and Metric Ambiguity		    |
+|(10/18)        |                                                   |
 +---------------+---------------------------------------------------+
 |9.M	        |	West African Rhythms         	            |
+|(10/21)        |                                                   |        
 |		|						    |
 |9.W	        |	Rhythms in Some Jazz Standards		    |
+|(10/23)        |                                                   |
 |		|						    |
 |9.F	        |	Seventeenth-century French Dance Rhythms    |
+|(10/25)        |                                                   |
 +---------------+---------------------------------------------------+
 
 
@@ -198,28 +221,40 @@ Lecture and Reading Schedule
 |Unit III: Motives and Melodic Patterns	                            |
 +===============+===================================================+
 |10.M	        |	Motives                                     |
+|(10/28)        |                                                   |
 |               |                                                   |
 |10.W	        |	Analysis   		                    |	
+|(10/30)        |                                                   |
 |		|						    |
 |10.F	        |	Periods                                     |
+|(11/1)         |                                                   |
 +---------------+---------------------------------------------------+
 |11.M	        |	Sentences		                    |
-|		|						    |
+|(11/4)		|						    |
+|               |                                                   |
 |11.W	        |	Dominant Sevenths and Secondary Dominants   |
+|(11/6)         |                                                   |
 |		|						    |
 |11.F	        |	Quiz 3                                      |
+|(11/8)         |                                                   |
 +---------------+---------------------------------------------------+
 |12.M	        |	Practice with Dominant Chords 		    |
+|(11/11)        |                                                   |
 |               |                                                   |
 |12.W	        |	Modulation, key relations		    |
-|		|						    |
+|(11/13)	|						    |
+|               |                                                   |
 |12.F	        |	Analysis                                    |
+|(11/15)        |                                                   |
 +---------------+---------------------------------------------------+
 |13.M	        |	12-Bar Blues		                    |
+|(11/18)        |                                                   |
 |		|						    |
 |13.W	        |	"Rhythm Changes"                            |
-|		|						    |
+|(11/20)	|						    |
+|               |                                                   |
 |13.F	        |	Harmonic Progressions in Popular Music      |
+|(11/22)        |                                                   |    
 +---------------+---------------------------------------------------+
 
 
@@ -229,17 +264,25 @@ Lecture and Reading Schedule
 |Introduction to Four-Part Choral Texture                           |
 +===============+===================================================+
 |14.M	        |	Harmony in Minor                            |
+|(11/25)        |                                                   |
 |		|						    |
 |14.W	        |	Tofurkey Day                                |
-|		|						    |
+|(11/27)	|						    |
+|               |                                                   |
 |14.F	        |	Tofurkey Recovery Day                       |
+|(11/29)        |                                                   |
 +---------------+---------------------------------------------------+
 |15.M	        |	Harmony in Minor, Continued                 |
+|(12/2)         |                                                   |        
 |		|						    |
 |15.W	        |	Introduction to Four-Part Choral Texture    |
-|		|						    |
+|(12/4)		|						    |
+|               |                                                   |
 |15.F		|	No Class				    |
+|(12/6)         |                                                   |
 +---------------+---------------------------------------------------+
+**Final Exam: Wednesday, December 11, 2013 9:00-12:00**
+
 
 Honor
 =======
