@@ -35,10 +35,12 @@ Resources
 
 Texts
 -------
-The following texts are required and are available either at the UVa Bookstore (or, in the case of
+The following texts are required and are available either at the UVa Bookstore or the Copy Shop (or, in the case of
 the score, through online seller):
 
 Reader collecting summaries of theory material and assignments; J. Haydn, *Piano Sonatas*, Vol. 2.
+**The Reader is Only Available at The Copy Shop (5 Elliewood Ave)**
+
 
 **NOTE:** If you have difficulty locating material for this course, please let me know immediately by email.
 
@@ -119,16 +121,14 @@ discussions.
 Lecture and Reading Schedule
 ============================
 
+Unit I: Pitch Relations and Harmony
+
 +---------------+---------------------------------------------------+
 |Week.Day	|	Topic         			            |
 +===============+===================================================+
 |1.W		|	Introduction, Diagnostic Test		    |
 |(8/28)         |                                                   |
 +---------------+---------------------------------------------------+
-
-+---------------+---------------------------------------------------+
-|Unit 1: Pitch Relations and Harmony	                            |
-+===============+===================================================+
 |1.F		|	Intervals                                   |    
 |(8/30)		|                    			            |
 +---------------+---------------------------------------------------+
