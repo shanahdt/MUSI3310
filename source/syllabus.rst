@@ -2,7 +2,7 @@
 Syllabus
 ========
 ----------------------------
-Music Theory 1 (MUSI3331)
+Music Theory 1 (MUSI3310)
 ----------------------------
 
 :Instructor: Dr. Daniel Shanahan
@@ -16,7 +16,7 @@ Music Theory 1 (MUSI3331)
 :Place: Old Cabel Hall, B012
 :Class No: 11188
 :Text:  Reader collecting summaries of theory material and assignments; J. Haydn, *Piano Sonatas*, Vol. 2.
-:Course Web Page: http://shanahdt.github.io/MUSI3331/
+:Course Web Page: http://shanahdt.github.io/MUSI3310/
 
 
 Course Objectives
@@ -106,7 +106,7 @@ I am available and interested in talking with you about the course,
 the course material, and strategies to enhance your learning. 
 We can usually have brief discussions after class, and I am able to 
 answer questions by e-mail (dts9h@virginia.edu) at any time. Please feel free to visit 
-me during office hours at any point during the semester.Additionally, I am happy to set up an
+me during office hours (see above) at any point during the semester.Additionally, I am happy to set up an
 appointment at a time that is mutually acceptable for more lengthy
 discussions.
 
@@ -126,7 +126,7 @@ Unit I: Pitch Relations and Harmony
 +---------------+---------------------------------------------------+
 |Week.Day	|	Topic         			            |
 +===============+===================================================+
-|1.W		|	Introduction, Diagnostic Test		    |
+|1.W (8/28)	|	Introduction, Diagnostic Test		    |
 |(8/28)         |                                                   |
 +---------------+---------------------------------------------------+
 |1.F		|	Intervals                                   |    
@@ -288,7 +288,7 @@ Unit I: Pitch Relations and Harmony
 Honor
 =======
 I trust every student in this course to comply with all of the provisions of the UVA honor system. 
-I will ask that you pledge and sign the two examinations and three papers.  
+I will ask that you pledge and sign the quizzes, the exam, and all assignments.  
 Your signature on the exams affirms you have not received nor given aid while 
 taking your exams, nor accessed any notes, study outlines, old exams, answer keys, 
 or books  while taking an exam and that you have not obtained any answers from another 
