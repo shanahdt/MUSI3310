@@ -11,15 +11,10 @@ Contents:
 .. toctree::
    :maxdepth: 1
 
-   syllabus
-
-
-
-.. toctree::
-   :maxdepth: 1
-
-   lessons/index
-
+   intervals
+   scales
+   modes
+   
 
 Indices and tables
 ==================
