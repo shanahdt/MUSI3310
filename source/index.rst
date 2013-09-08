@@ -12,13 +12,9 @@ Contents:
    :maxdepth: 1
 
    syllabus
-
-
-
-.. toctree::
-   :maxdepth: 1
-
    lessons/index
+
+
 
 
 Indices and tables
