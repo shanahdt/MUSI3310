@@ -1,3 +1,6 @@
+Periods
+==========
+
 The presentation on periods can be below. Please email if you have any
 questions. 
 
