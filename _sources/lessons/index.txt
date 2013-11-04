@@ -14,7 +14,7 @@ Contents:
    intervals
    scales
    modes
-   
+   periods
 
 Indices and tables
 ==================
